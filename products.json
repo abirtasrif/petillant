@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "title": "Elegant Gold Bracelet",
+    "id": "bracelet_gold",
+    "description": "Enhance your style with this elegant gold bracelet, perfect for any occasion.",
+    "price": "49.99"
+  },
+  {
+    "title": "Floral Print Dress",
+    "id": "dress_floral",
+    "description": "Look effortlessly chic in this beautiful floral print dress, ideal for summer outings.",
+    "price": "59.99"
+  },
+  {
+    "title": "Designer Handbag",
+    "id": "handbag_designer",
+    "description": "Carry your essentials in style with this luxurious designer handbag, a must-have accessory.",
+    "price": "199.99"
+  },
+  {
+    "title": "Scented Candle Set",
+    "id": "candle_scented",
+    "description": "Create a soothing ambiance with this scented candle set, perfect for relaxation and self-care.",
+    "price": "24.99"
+  },
+  {
+    "title": "Statement Earrings",
+    "id": "earrings_statement",
+    "description": "Make a bold fashion statement with these eye-catching statement earrings, sure to turn heads.",
+    "price": "34.99"
+  }
+]
